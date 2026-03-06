@@ -7,6 +7,19 @@ In this project, I design simple converter circuits and observe voltage, current
 
 The project also includes basic design notes, simulation files, and preparation for PCB work.
 
+## Project Overview
+
+This project demonstrates the design and simulation of a **DC-DC Buck Converter** using LTspice.  
+The converter steps down a **12V input voltage** to a lower output voltage using PWM switching control.
+
+Key features analyzed in this project:
+
+- PWM switching behavior
+- Inductor current waveform
+- Output voltage ripple
+- Basic converter performance
+
+  
 ## Project Goals
 
 - Understand how DC-DC converters work
