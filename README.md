@@ -153,7 +153,7 @@ A ground plane was added to improve current return paths and reduce noise in the
 
 ## Tools Used
 
-* LTspice
-* Power Electronics design principles
-* Basic circuit analysis
-* GitHub for project documentation
+- LTspice – circuit simulation and waveform analysis
+- Autodesk EAGLE – schematic design and PCB layout
+- Power Electronics design concepts – Buck converter topology and switching behavior
+- GitHub – project documentation and version control
